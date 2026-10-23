@@ -1,0 +1,4 @@
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee" version="4.0">
+ <request-character-encoding>UTF-8</request-character-encoding>
+ <response-character-encoding>UTF-8</response-character-encoding>
+</web-app>
